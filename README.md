@@ -1,7 +1,3 @@
----
-author: @ayush-thakur02
----
-
 # Stable Diffusion XL Web
 
 <div align="justify" markdown=1>
